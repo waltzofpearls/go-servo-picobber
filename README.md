@@ -1,8 +1,8 @@
 # go-servo-picobber
 
-A golang port for
-[Geekroo PWM Servo PiCobber](http://www.robotshop.com/ca/en/pwm-servo-driver-picobber-raspberry-pi-hat.html)
-[python driver](https://github.com/geekroo/Geekroo-PiCobber-PWMServo).
+A golang port of the
+[python driver](https://github.com/geekroo/Geekroo-PiCobber-PWMServo) for Geekroo's
+[PWM Servo PiCobber](http://www.robotshop.com/ca/en/pwm-servo-driver-picobber-raspberry-pi-hat.html).
 
 The PWM Servo Driver PiCobber Raspberry Pi HAT has the ability to drive
 up to 16 servos or PWM outputs with over 12C with only 2 pins. The PWM
